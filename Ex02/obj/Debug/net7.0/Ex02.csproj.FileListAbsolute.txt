@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\AtributosMetodos\Ex02\bin\Debug\net7.0\Ex02.exe
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\AtributosMetodos\Ex02\bin\Debug\net7.0\Ex02.deps.json
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\AtributosMetodos\Ex02\bin\Debug\net7.0\Ex02.runtimeconfig.json
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\AtributosMetodos\Ex02\bin\Debug\net7.0\Ex02.dll
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\AtributosMetodos\Ex02\bin\Debug\net7.0\Ex02.pdb
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\AtributosMetodos\Ex02\obj\Debug\net7.0\Ex02.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\AtributosMetodos\Ex02\obj\Debug\net7.0\Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\AtributosMetodos\Ex02\obj\Debug\net7.0\Ex02.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\AtributosMetodos\Ex02\obj\Debug\net7.0\Ex02.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\AtributosMetodos\Ex02\obj\Debug\net7.0\Ex02.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\AtributosMetodos\Ex02\obj\Debug\net7.0\Ex02.dll
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\AtributosMetodos\Ex02\obj\Debug\net7.0\refint\Ex02.dll
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\AtributosMetodos\Ex02\obj\Debug\net7.0\Ex02.pdb
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\AtributosMetodos\Ex02\obj\Debug\net7.0\Ex02.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\estudosProgramacao\exerciciosPropostos\AtributosMetodos\Ex02\obj\Debug\net7.0\ref\Ex02.dll
